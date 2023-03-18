@@ -16,7 +16,7 @@ const BlogPostCard = ({ index, post, showSummary, siteInfo }) => {
   return (
     <div
         data-aos="fade-up"
-        data-aos-duration="200"
+        data-aos-duration="350"
         data-aos-delay={delay}
         data-aos-once="true"
         data-aos-anchor-placement="top-bottom"
